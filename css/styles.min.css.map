@@ -2,8 +2,9 @@
 	"version": 3,
 	"file": "styles.min.css",
 	"sources": [
-		"styles.scss"
+		"../sass/styles.scss",
+		"../sass/abstracts/_variables.scss"
 	],
-	"mappings": "AAYA,IAAI,AAAC,CACH,WAAW,CAJA,cAAc,CAAE,UAAU,CAKrC,QAAQ,CAAE,QAAS,CACpB,AAED,CAAC,AAAC,CACA,eAAe,CAAE,IAAK,CACvB",
+	"mappings": "AAIA,AAAA,IAAI,AAAC,CACH,WAAW,CCIA,cAAc,CAAE,UAAU,CDHrC,QAAQ,CAAE,QAAS,CACnB,KAAK,CCJM,OAAO,CDKnB,AAED,AAAA,CAAC,AAAC,CACA,eAAe,CAAE,IAAK,CACvB",
 	"names": []
 }

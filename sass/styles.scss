@@ -1,0 +1,13 @@
+// Main scss file
+
+@import 'abstracts/variables';
+
+body {
+  font-family: $font-serif;
+  position: relative;
+  color: $text-color;
+}
+
+a {
+  text-decoration: none;
+}
