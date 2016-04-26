@@ -11,13 +11,19 @@ h3 {
 h4 {
   font-family: 'Lato', sans-serif;
 }
+
+embed {
+  height: 100%;
+  width: 100%;
+}
+
 #portfolio {
   font-family: 'Lato', sans-serif;
 }
 #wrapper {
   margin: 0 auto;
-  /*max-width: 940px;*/
-  max-width: 65%;
+  max-width: 1080px;
+  /*max-width: 65%;*/
   padding: 8.5em 5%;
 }
 
@@ -92,6 +98,7 @@ footer a {
 header {
   background: #1c1c1c;
   border-color: #1c1c1c;
+
 }
 footer {
   background: #1c1c1c;
