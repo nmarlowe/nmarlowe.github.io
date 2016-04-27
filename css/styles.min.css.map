@@ -3,8 +3,10 @@
 	"file": "styles.min.css",
 	"sources": [
 		"../sass/styles.scss",
-		"../sass/abstracts/_variables.scss"
+		"../sass/abstracts/_variables.scss",
+		"../sass/base/_base.scss",
+		"../sass/base/_typography.scss"
 	],
-	"mappings": "AAIA,AAAA,IAAI,AAAC,CACH,WAAW,CCIA,cAAc,CAAE,UAAU,CDHrC,QAAQ,CAAE,QAAS,CACnB,KAAK,CCJM,OAAO,CDKnB,AAED,AAAA,CAAC,AAAC,CACA,eAAe,CAAE,IAAK,CACvB",
+	"mappings": "",
 	"names": []
 }
