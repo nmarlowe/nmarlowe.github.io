@@ -1,7 +1,7 @@
 jQuery.fn.decodeEffect = (function ($) {
     var defaultOptions = {
         duration:      3000,
-        stepsPerGlyph: 10,
+        stepsPerGlyph: 7,
         codeGlyphs:    "ABCDEFGHIJKLMNOPQRSTUWVXYZ1234567890abcdefghijklmnopqrstuvwxyz1234567890!@#$%^&*()-_=+{}[]:;|\\\"'<>,.?/",
         className:     "code"
     };
