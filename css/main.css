@@ -85,6 +85,7 @@ nav a {
 footer {
   clear: both;
   color: #ff8787;
+  font-family: "Source Code Pro", sans-serif;
   font-size: 1em;
   overflow: hidden;
   padding-top: 50px;
