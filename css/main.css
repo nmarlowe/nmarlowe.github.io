@@ -1,5 +1,5 @@
 body {
-  font-family: 'Merriweather', sans-serif;
+  font-family: 'Source Sans Pro', sans-serif;
   position: relative;
 }
 a {
@@ -9,7 +9,7 @@ h3 {
   margin: 0 0 1em;
 }
 h4 {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Source Code Pro', sans-serif;
 }
 
 embed {
@@ -18,7 +18,7 @@ embed {
 }
 
 #portfolio {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Source Code Pro', sans-serif;
 }
 #wrapper {
   margin: 0 auto;
@@ -53,7 +53,7 @@ header {
   text-decoration: none;
 }
 h1 {
-  font-family: "Lato", sans-serif;
+  font-family: "Source Code Pro", sans-serif;
   font-size: 1.75em;
   font-weight: normal;
   line-height: 0.8em;
@@ -78,7 +78,7 @@ nav li {
   display: inline-block;
 }
 nav a {
-  font-family: "Lato", sans-serif;
+  font-family: "Source Code Pro", sans-serif;
   font-weight: 800;
   padding: 15px 10px;
 }
