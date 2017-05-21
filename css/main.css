@@ -2,12 +2,15 @@ body {
   font-family: 'Source Sans Pro', sans-serif;
   position: relative;
 }
+
 a {
   text-decoration: none;
 }
+
 h3 {
   margin: 0 0 1em;
 }
+
 h4 {
   font-family: 'Source Code Pro', sans-serif;
 }
@@ -20,6 +23,7 @@ embed {
 #portfolio {
   font-family: 'Source Code Pro', sans-serif;
 }
+
 #wrapper {
   margin: 0 auto;
   max-width: 1080px;
@@ -33,13 +37,16 @@ embed {
 .about-text {
   text-align: justify;
 }
+
 .to-top a {
   color: #000;
   right: 10px;
 }
+
 .to-top a:hover {
   text-decoration: none;
 }
+
 header {
   float: left;
   margin: 0 0 30px 0;
@@ -47,11 +54,13 @@ header {
   width: 100%;
   z-index: 100;
 }
+
 #logo {
   margin: 0;
   text-align: center;
   text-decoration: none;
 }
+
 h1 {
   font-family: "Source Code Pro", sans-serif;
   font-size: 1.75em;
@@ -59,29 +68,35 @@ h1 {
   line-height: 0.8em;
   margin: 15px 0;
 }
+
 h2 {
   font-size: 0.75em;
   font-weight: normal;
   margin: -5px 0 0;
 }
+
 nav {
   margin: 20px 0 0;
   padding: 10px 0;
   text-align: center;
 }
+
 nav ul {
   list-style: none;
   margin: 0 10px;
   padding: 0;
 }
+
 nav li {
   display: inline-block;
 }
+
 nav a {
   font-family: "Source Code Pro", sans-serif;
   font-weight: 800;
   padding: 15px 10px;
 }
+
 footer {
   clear: both;
   color: #ff8787;
@@ -92,60 +107,70 @@ footer {
   text-align: center;
   width: 100%;
 }
+
 footer a {
   color: #ff8787;
 }
+
 header {
   background: #1c1c1c;
   border-color: #1c1c1c;
-
 }
+
 footer {
   background: #1c1c1c;
   border-color: #1c1c1c;
 }
+
 #logo:hover {
   color: #ff8787;
 }
-h1,
-h2 {
+
+h1, h2 {
   color: #ff8787;
 }
+
 h4 {
   color: #3d3d3d;
 }
+
 nav {
   background: #1c1c1c;
 }
-nav a,
-nav a:visited {
+
+nav a, nav a:visited {
   color: #fff;
   text-decoration: none;
 }
+
 nav a:hover {
   color: #ff8787;
   text-decoration: none;
 }
+
 #portfolio a {
   color: #1c1c1c;
   text-align: center;
   text-decoration: none;
 }
+
 body {
   background-color: #fbfbfb;
   color: #7a7a7a;
 }
-a.thumbnail:hover,
-a.thumbnail:focus,
-a.thumbnail:active {
+
+a.thumbnail:hover, a.thumbnail:focus, a.thumbnail:active {
   border-color: #ddd;
 }
+
 .peace {
   color: #fff;
 }
+
 .love {
   color: #f00;
 }
+
 @media screen and (min-width: 860px) {
   footer {
     border-bottom: 5px solid #1c1c1c;
@@ -178,9 +203,9 @@ a.thumbnail:active {
     width: 45%;
   }
 }
+
 @media (min-width: 1200px) {
-  .affix,
-  .affix-bottom {
+  .affix, .affix-bottom {
     width: 263px;
   }
 }
